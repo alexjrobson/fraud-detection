@@ -52,11 +52,6 @@ fraud-detection/
    - Retrained Logistic Regression  
    - Visualized confusion matrix and ROC curve  
 
-6. **(Next) Stronger Models**  
-   - Random Forest / XGBoost  
-   - Compare metrics vs baseline  
-   - Plot confusion matrix and ROC curve
-
 ---
 
 ⚠️ Notes
